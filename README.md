@@ -65,7 +65,7 @@ Perform a basic vulnerability scan on a local machine using Nessus Essentials to
 ---
 
 ## Screenshots
-![Nessus Scan Results](scan_results.png)
+![Nessus Scan Results](Screenshot 2025-08-08 170349.png)
 
 ---
 
